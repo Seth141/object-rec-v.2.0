@@ -12,4 +12,4 @@
 
 6.	Once application is successfully running, tap on objects within the device’s field of view (this feature can be toggled off as well if undesired)  
 
-# Is compatible with Inception V3 and ResNet 50 in addition to models provided. Further support coming shortly
+# Is compatible with Inception V3 and ResNet 50 in addition to models provided. 
